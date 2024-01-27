@@ -1,0 +1,18 @@
+{
+  "order": {
+    "current": 320,
+    "previous": 300
+  },
+  "refund": {
+    "current": 280,
+    "previous": 330
+  },
+  "sales": {
+    "current": 1568,
+    "previous": 2000
+  },
+  "income": {
+    "current": 350,
+    "previous": 300
+  }
+}

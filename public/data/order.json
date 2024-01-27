@@ -1,0 +1,47 @@
+[
+  {
+    "user": {
+      "name": "Tom Holland",
+      "image": "/images/user1.png"
+    },
+    "date": "2023-12-12",
+    "amount": 80000,
+    "status": "paid"
+  },
+  {
+    "user": {
+      "name": "Freddy Kruger",
+      "image": "/images/user2.png"
+    },
+    "date": "2023-12-05",
+    "amount": 150000,
+    "status": "refund"
+  },
+  {
+    "user": {
+      "name": "Kofi Hannan",
+      "image": "/images/user3.png"
+    },
+    "date": "2023-11-12",
+    "amount": 87000,
+    "status": "paid"
+  },
+  {
+    "user": {
+      "name": "Lawren James",
+      "image": "/images/user4.png"
+    },
+    "date": "2023-11-05",
+    "amount": 20000,
+    "status": "paid"
+  },
+  {
+    "user": {
+      "name": "Erling Haaland",
+      "image": "/images/user5.png"
+    },
+    "date": "2023-10-20",
+    "amount": 100000,
+    "status": "refund"
+  }
+]

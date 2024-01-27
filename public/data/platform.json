@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Book Bazaar",
+    "amount": 2500000,
+    "current": 1350000,
+    "previous": 1062500
+  },
+  {
+    "name": "Artisan Aisle",
+    "amount": 2500000,
+    "current": 1250000,
+    "previous": 1062500
+  },
+  {
+    "name": "Apple",
+    "amount": 2500000,
+    "current": 1450000,
+    "previous": 1062500
+  },
+  {
+    "name": "SpaceX",
+    "amount": 2500000,
+    "current": 1850000,
+    "previous": 1062500
+  },
+  {
+    "name": "Xcorp",
+    "amount": 2500000,
+    "current": 1150000,
+    "previous": 1062500
+  }
+]

@@ -1,0 +1,14 @@
+[
+  { "name": "jan", "amount": 7.5 },
+  { "name": "feb", "amount": 17.5 },
+  { "name": "mar", "amount": 9.5 },
+  { "name": "apr", "amount": 4.5 },
+  { "name": "may", "amount": 20.1 },
+  { "name": "jun", "amount": 18.4 },
+  { "name": "jul", "amount": 40.0 },
+  { "name": "aug", "amount": 7.5 },
+  { "name": "sep", "amount": 25.5 },
+  { "name": "oct", "amount": 37.5 },
+  { "name": "nov", "amount": 28.7 },
+  { "name": "dec", "amount": 10.2 }
+]
